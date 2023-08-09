@@ -12,6 +12,7 @@
 <p align="center"><img src="https://github.com/GustavMariano/skills-backend/blob/main/images/swagger.jpg" alt="Swagger documentation"></p>
 <hr>
 <p align="center">Tecnologias Utilizadas
+<br>
 <br>Java 17
 <br>SpringBoot 3.1.2
 <br>JWT
